@@ -1,0 +1,7 @@
+git init
+git add Test.java
+git commit -m "Test java class added"
+git branch tester
+git branch
+git checkout tester
+ls
